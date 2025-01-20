@@ -3,7 +3,7 @@
     "description": "username-password base authentication flow",
     "type": "community",
     "author": "desaioss",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "authorWebsite": "https://github.com/desaioss/agamalab-username-password-release-1",
     "githubUri": "https://github.com/desaioss/agamalab-username-password-release-1",
     "license": "apache-2.0",
